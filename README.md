@@ -1,5 +1,7 @@
 # distibuted-system-project
 Tech stack: AWS(EC2, DynamoDB, Load Balancer, Lambda), Java, RabbitMQ, Redis, MySQL
-final project
+
+
+Final project architecure
 
 ![alt text](image.png)
